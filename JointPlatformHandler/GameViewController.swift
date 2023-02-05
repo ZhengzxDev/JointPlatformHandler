@@ -29,6 +29,9 @@ class GameViewController: UIViewController {
             view.showsFPS = true
             view.showsNodeCount = true
         }
+        
+        
+        //LANTcpLobbyManager.shared.startListening()
     }
 
     override var shouldAutorotate: Bool {

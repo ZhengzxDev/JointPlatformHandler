@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  JointPlatformHandler
+
+  Created by luckyXionzz on 2022/1/25.
+  
+*/
+CFBundleName="Joint手柄";
+CFBundleDisplayName="Joint手柄";
